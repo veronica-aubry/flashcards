@@ -25,5 +25,14 @@ margin: 30px;
 height: 300px;
 width: 250px;
 margin-left: 50px;
+margin-bottom: -10px;
 
+}
+
+span {
+  margin-left: 35%;
+}
+
+body{
+  padding-bottom: 40px;
 }
